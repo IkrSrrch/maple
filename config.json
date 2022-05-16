@@ -1,7 +1,7 @@
 {
-    "token": "OTYzMTM5ODMxNTExMjYxMTk0.YlRv3g.XvYAMYpLf8hnarf8IUIFM1gaZAc",
+    "token": "",
     "prefix": "m!",
-    "mongooseConnectionString": "mongodb+srv://TOUMA:toumaxd12@cluster0.23w4h.mongodb.net/test",
+    "mongooseConnectionString": "",
     "emoji": {
         "play": "▶️",
         "stop": "⏹️",
